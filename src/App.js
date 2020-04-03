@@ -43,7 +43,7 @@ class App extends Component {
 
     return (
       <div className='App'>
-        <h1>Monster - By PC</h1>
+        <h1>Monster - By Praveen Chandran</h1>
         <SearchField placeholder='search monsters' 
         handleChange={this.handleChange}  
         ></SearchField>
